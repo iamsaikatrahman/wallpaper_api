@@ -1,6 +1,12 @@
 # wallpaper_api
 
-A new Flutter project.
+It is beautiful flutter wallpaper api. 
+
+In this app you see various categories of images, you search images in the search box and you also save images through this beautiful flutter wallpaper API. I collect API from pexels for this wallpaper app. Here I follow the MVC pattern for writing the code. I give some screenshots for example in below that help you understand this beautiful Flutter Wallpaper API.
+
+## Screenshots
+![wallpaperhub](https://user-images.githubusercontent.com/75200754/108990966-b4dbc700-76c1-11eb-90f5-47e499d49b48.png)
+
 
 ## Getting Started
 
